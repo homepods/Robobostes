@@ -32,3 +32,5 @@ This frame size is built for 300x300 bed.
   - 300x300bed
   - insulator-bottom
   - reflector-top
+
+![Robobostes](robobostes-frame.png)
