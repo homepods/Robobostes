@@ -3,3 +3,6 @@ An open-source 3D printer, designed from the ground up for printing hard materia
 
 Support this project
 https://pay.revolut.com/profile/andreitwk2
+
+
+![Robobostes](/Build_Version_0_1/robobostes-frame.png)
