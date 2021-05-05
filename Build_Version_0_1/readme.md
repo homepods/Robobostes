@@ -1,32 +1,34 @@
+# Robobostes 
 Folder structure
+_sponsor me here_ https://pay.revolut.com/andreitwk2
 
-Frame
+## Build Components
+This frame size is built for 300x300 bed.
+  - Frame
+  - Extruder-Frame
+  - Frame X
 
-A-Mount
-A-E-Tensioner
-A-X-Mount-Left
+## Mounting Motor A
+  - A-Mount
+  - A-E-Tensioner
+  - A-X-Mount-Left
+## Mounting Motor B
+  - B-Mount
+  - B-E-Tensioner
+  - B-X-Mount-Right
+## Mounting Motor Z
+  - Z-Assembly
 
-B-Mount
-B-E-Tensioner
-B-X-Mount-Right
+## Z-Belt tensionener
+  - Z-tensioner 
 
-Z-tensioner 
+## Extruder
+  - The Artist (Extruder)
 
-Frame AB
-E-Frame
-X-frame
+## Electronics
+  - LCD Assembly
 
-The Artist (Extruder)
-LCD Assembly
-
-Z-Assembly
-Z-Belts
-
-300x300bed
-
-
-
-insulator-bottom
-reflector-bottom
-
-Electronics
+## Bed
+  - 300x300bed
+  - insulator-bottom
+  - reflector-top
