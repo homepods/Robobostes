@@ -3,4 +3,4 @@
   - A-Mount-belt-connector
   - A-Mount-belt-clamp-top
 
-![Robobostes](robobostes-frame.png)
+![Robobostes](A-Mount.png)
