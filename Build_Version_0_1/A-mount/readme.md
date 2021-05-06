@@ -2,6 +2,8 @@
   - A-B-Mount TOP (sheet metal)
   - A-Mount-belt-connector
   - A-Mount-belt-clamp-top
+  - A-Mount-bottom
+  
 ## A-Mount General Assembly
 ![Robobostes](A-Mount.png)
 ## A-Mount Sheet metal CAD details (see STEP file for 3d Model)
