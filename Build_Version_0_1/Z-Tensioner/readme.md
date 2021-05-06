@@ -1,9 +1,6 @@
 ## Z-Tensioner
-  - A-B-Mount TOP (sheet metal) (RED)
-  - A-Mount-belt-connector
-  - A-Mount-belt-clamp-top
-  - A-Mount-bottom (GREEN)
-  - Z-Carriage-Clamp (RED)
+  - Z-Tensiner Plate (sheet metal)
+  - Z-tensioner pulley
   
 ## A-Mount General Assembly
 ![Robobostes](A-Mount.png)
